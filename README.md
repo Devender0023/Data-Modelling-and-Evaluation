@@ -7,6 +7,7 @@ The investigation's major purpose is to discover the association between a range
 
 
 Methodology
+
 The first stage in the approach is to prepare and clean the provided dataset to ensure that it is free of flaws such as logical errors or data entry errors that could potentially affect the investigation, analysis, and report results. It is critical to grasp each part of the data collected separately in order to gain an understanding of the factors I was analyzing and how they could effectively contribute to the inquiry done in this report. The first step of the technique explores each attribute from the acquired information individually and represents it using the suitable descriptive visualisation.
 
 Furthermore, multiple feasible hypotheses are developed in order to meet the goal of this study, and the links between various pairs of features are studied and displayed utilizing proper visualisation. I can obtain a comprehensive understanding of the factors that most influence the survival rate of patients with heart failure by analyzing the correlations between several factors.
